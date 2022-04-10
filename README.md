@@ -1,4 +1,4 @@
-# learning reactjs React App
+# learning Reactjs App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -7,8 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
-.
 
 ### `npm test`
 
